@@ -1,2 +1,3 @@
 name: Lea Marolt Sonnenschein
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
